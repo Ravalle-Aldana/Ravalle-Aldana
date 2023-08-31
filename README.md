@@ -1,8 +1,5 @@
-### Hi there 👋
-
+<img src="https://github.com/Ravalle-Aldana/Ravalle-Aldana/assets/135768992/b8fc197f-49e2-4502-871e-85b4a4165f40">
 <!--
-**Ravalle-Aldana/Ravalle-Aldana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
